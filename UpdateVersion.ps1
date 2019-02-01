@@ -1,5 +1,6 @@
 #Based on https://www.visualstudio.com/docs/build/scripts/index
 #copy from https://gist.github.com/ridomin/7250c9fb3fbc74593c7f97520a3fe771
+#see also https://docs.microsoft.com/en-us/windows/uwp/packaging/auto-build-package-uwp-apps
 # Enable -Verbose option
 [CmdletBinding()] 
 
